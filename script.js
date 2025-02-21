@@ -1,6 +1,6 @@
 function login()
 {
-  let u=us.value
+  let u=un.value
   let p=pw.value
   if (u=="Quan" && p=="123")
   {
