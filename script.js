@@ -4,6 +4,7 @@ function login()
   let p=pw.value
   if (u=="quan" && p=="123")
   {
-    window.open("home.html")
+    window.open("Home.html")
     document.getElementById(compiler).style.display="block"
+    
   }
