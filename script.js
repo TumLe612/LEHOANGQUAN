@@ -1,3 +1,4 @@
+function login()
 {
   let u=us.value
   let p=pw.value
