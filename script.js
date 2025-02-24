@@ -4,7 +4,7 @@ function login()
   let p=pw.value
   if (u=="Q" && p=="1")
   {
-    window.open("Home.html")
+    window.open("home.html")
     document.getElementById(compiler).style.display="block"
   }
 }
